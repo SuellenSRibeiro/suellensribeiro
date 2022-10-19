@@ -24,6 +24,5 @@
 <a href = "mailto:suellensrib@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/suellen-ribeiro-7ba34a250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<img src="./assets/meugif"/>
 
 ![snake gif](https://github.com/suellensribeiro/suellensribeiro/blob/output/github-contribution-grid-snake.svg)
