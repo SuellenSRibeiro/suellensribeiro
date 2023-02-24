@@ -40,7 +40,7 @@ Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas p
 
 <li>📫Como chegar até mim:<br>
  
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/suellen-ribeiro-7ba34a250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/suellen-ribeiro-7ba34a250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/suerribeir/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   
