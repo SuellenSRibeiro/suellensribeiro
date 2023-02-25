@@ -9,7 +9,7 @@ Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas p
   [![suellensribeiro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suellensribeiro&bg_color=0a0005&color=f52ea2&line=b0307b&point=f4f0f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div align="left">
-🚀 Atualmente, estou aprendendo <strong>API e Microsserviços</strong><br>
+🚀 Atualmente, estou aprendendo <strong>API, Microsserviços</strong><br>
 💬 Posso responder perguntas sobre <strong>Java, Javascript, React, e MySQL</strong><br>
 🛴 Fun fact: <strong>Amo Inuyasha e Demon Slayer</strong></h4> 
 </div>
