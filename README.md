@@ -5,8 +5,6 @@ Decidi estudar programação desde o início de 2021 e foi a melhor decisão que
 Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
 **********
-
-  [![suellensribeiro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suellensribeiro&bg_color=0a0005&color=f52ea2&line=b0307b&point=f4f0f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div align="left">
 🚀 Atualmente, estou aprendendo <strong>API, Microsserviços</strong><br>
