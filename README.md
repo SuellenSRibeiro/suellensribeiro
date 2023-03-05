@@ -8,7 +8,7 @@ Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas p
  
 <div align="left">
 🚀 Atualmente, estou aprendendo <strong>API, Microsserviços</strong><br>
-💬 Posso responder perguntas sobre <strong>Java, Javascript, React, e MySQL</strong><br>
+💬 Posso responder perguntas sobre <strong>Java, C#, Javascript, React</strong><br>
 🛴 Fun fact: <strong>Amo Inuyasha e Demon Slayer</strong></h4> 
 </div>
 
