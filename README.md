@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-Enquanto eu faço meu curso superior em Ciência da Computação, participo de eventos sobre a presença de mulheres na área tech, bootcamps e cursos de linguagem Java, Spring, Javascript, Python, React, C#.
+Enquanto eu faço meu curso superior em Ciência da Computação, participo de eventos e bootcamps e cursos de linguagem Java, Spring, Javascript, Python, React, C++, C#.
 Decidi estudar programação desde o início de 2021 e foi a melhor decisão que já tomei. 
 Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
