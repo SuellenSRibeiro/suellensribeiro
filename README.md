@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
-Enquanto eu faço meu curso superior em Ciência da Computação, participo de eventos e bootcamps e cursos de linguagem Java, Spring, Javascript, Python, C++, C#.
+Enquanto eu faço meu curso superior em Ciência da Computação, participo de eventos e bootcamps e cursos de linguagem Java, C++, C#.
 Decidi estudar programação desde o início de 2021 e foi a melhor decisão que já tomei. 
 Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
 
@@ -29,9 +29,7 @@ Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas p
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30,5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40"/>
+
 </div>
 <br>
 
